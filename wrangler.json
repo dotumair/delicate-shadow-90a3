@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "delicate-shadow-90a3",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "64ba0cb4-d5e5-48a9-baa6-c17262cfa8d5",
+      "database_name": "lingering-hill-d4e9-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
